@@ -1,10 +1,33 @@
-# 👋 Hi, I'm Ankita
+# 👋 Hi, I'm Ankita Konar
 
-💡 Enthusiastic about **AI** and **Machine Learning**  
-🔍 Exploring projects in **Data Analytics** and real-world ML applications  
-📊 Love building dashboards, insights, and solving problems  
-🌐 Open to collaborating on AI/ML-based projects
+🎓 I'm passionate about Artificial Intelligence and Machine Learning.  
+💻 Currently working on projects in **Data Analytics**, **Deep Learning**, and **Model Deployment**.  
+🔍 Love building real-world solutions using Python, TensorFlow, and Power BI.
 
-📫 Connect with me:
-- GitHub: [ankita388](https://github.com/ankita388)
-- LinkedIn: [ankita388](https://www.linkedin.com/in/ankita388/)
+---
+
+## 🚀 Skills
+- **Languages:** Python, SQL, JavaScript
+- **Libraries/Frameworks:** Pandas, NumPy, TensorFlow, Scikit-learn, Keras, Matplotlib
+- **Tools:** Power BI, Git, VS Code, Jupyter
+- **Database:** MySQL, MongoDB
+
+---
+
+## 📊 GitHub Stats
+
+![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankita388&show_icons=true&theme=radical)
+
+---
+
+## 📌 Featured Projects
+- 🎥 [Movie Recommendation System](https://github.com/ankita388/MOVIERECOMMENDATIONSYSTEM)
+- 😷 [Face Mask Detection Using CNN](https://github.com/ankita388/FACE_MASK_DETECTION_USING_CNN)
+- 📊 [Ecommerce Sales Dashboard](https://github.com/ankita388/Ecommerce_Sales_Dashboard)
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ankita388/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/ankita388)
