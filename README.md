@@ -1,8 +1,18 @@
-# 👋 Hi, I'm Ankita Konar
+<h1 align="center">Hi 👋, I'm Ankita</h1>
+<h3 align="center">AI/ML Enthusiast | Python Developer | Data Analyst</h3>
 
-🎓 I'm passionate about Artificial Intelligence and Machine Learning.  
-💻 Currently working on projects in **Data Analytics**, **Deep Learning**, and **Model Deployment**.  
-🔍 Love building real-world solutions using Python, TensorFlow, and Power BI.
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/116207...g.gif">
+
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Engineering+Student;AI+%7C+ML+Enthusiast+%7C+Data+Analyst;Passionate+about+Tech+%26+Coding💻&center=true&width=500&height=45&color=FF61B0&vCenter=true&size=25" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/ankita388/ankita388/blob/main/assets/banner.gif" alt="Banner" width="100%" />
+</p>
 
 ---
 
@@ -57,6 +67,6 @@
 ---
 
 ## 📫 Connect with Me
-
+[![Gmail](https://img.shields.io/badge/Gmail-yellow?style=flat&logo=Gmail)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ankita388/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/ankita388)
