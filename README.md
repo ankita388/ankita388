@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/ankita388/ankita388/blob/main/banner.png.png" alt="GitHub Banner" style="width:100%; height:200px; object-fit:cover;" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Ankita</h1>
 <h3 align="center">AI/ML Enthusiast | Python Developer | Data Analyst</h3>
 
