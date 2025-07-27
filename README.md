@@ -2,10 +2,10 @@
   <img src="https://github.com/ankita388/ankita388/blob/main/banner.png.png" alt="GitHub Banner" style="width:100%; height:200px; object-fit:cover;" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Ankita</h1>
+
 <h3 align="center">AI/ML Enthusiast | Python Developer | Data Analyst</h3>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/116207...g.gif">
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/116207...g.gif">
 
 
 ---
