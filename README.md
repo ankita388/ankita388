@@ -39,11 +39,6 @@
 
 ---
 
-## 📊 Data Tools / BI
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black)
-
----
-
 ## 🛠️ Tools 
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
@@ -60,6 +55,10 @@
 ## 📊 GitHub Stats
 
 ![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankita388&show_icons=true&theme=radical)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankita388&layout=compact&theme=tokyonight)
+
 
 ---
 
